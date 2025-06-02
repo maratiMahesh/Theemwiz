@@ -29,7 +29,7 @@ const Portfolio = () => {
                     <p className='bg-white text-black rounded-lg opacity-70 px-2 py-1'>Design</p>
                     <h3 className='text-white font-bold uppercase text-2xl'>sofa</h3>
                 </div>
-                <img src="../src/Images/Bitmap1.png" alt="Portfolio Item" className=' w-full h-60 md:h-80  object-cover rounded-lg shadow-lg' />
+                <img src="../public/Images/Bitmap1.png" alt="Portfolio Item" className=' w-full h-60 md:h-80  object-cover rounded-lg shadow-lg' />
                 </div>
             <div className='relative md:col-span-3 '>
                 <div className='absolute bottom-8 left-4 bg-opacity-80'>
@@ -43,14 +43,14 @@ const Portfolio = () => {
                     <p className='bg-white text-black rounded-lg opacity-70 px-2 py-1'>Illustration</p>
                     <h3 className='text-white font-bold uppercase text-2xl'>work media</h3>
                 </div>
-                <img src="../src/Images/Bitmap3.png" alt="Portfolio Item" className=' w-full h-60 md:h-80  object-cover rounded-lg shadow-lg' />
+                <img src="../public/Images/Bitmap3.png" alt="Portfolio Item" className=' w-full h-60 md:h-80  object-cover rounded-lg shadow-lg' />
                 </div>
                 <div className='relative md:col-span-2 '>
                     <div className='absolute bottom-8 left-4 bg-opacity-80'>
                     <p className='bg-white text-black rounded-lg opacity-70 px-2 py-1'>Motion</p>
                     <h3 className='text-white font-bold uppercase text-2xl'>dddone</h3>
                 </div>
-                <img src="../src/Images/Bitmap4.png" alt="Portfolio Item" className=' w-full h-60 md:h-80 object-cover rounded-lg shadow-lg' />
+                <img src="../public/Images/Bitmap4.png" alt="Portfolio Item" className=' w-full h-60 md:h-80 object-cover rounded-lg shadow-lg' />
                 </div>
                </div>
                <div className='mt-8 text-center'>

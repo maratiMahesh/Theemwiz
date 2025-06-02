@@ -26,7 +26,7 @@ const Hero = () => {
             </div>
         </div>
         <div children='w-full md:w-1/2  p-4 md:p-8 mt-6 order-first md:order-last'>
-            <img src="../src/Images/pic.png" alt="Hero" className="w-full h-full object-contain" />
+            <img src="../public/Images/pic.png" alt="Hero" className="w-full h-full object-contain" />
         </div>
     </div>
   )

@@ -101,7 +101,7 @@ const Pricing = () => {
                </div>
             </form>
          </div>
-         <img src='../src/Images/map.png' alt='Pricing Image' className='mx-auto w-full h-auto' />
+         <img src='../public/Images/map.png' alt='Pricing Image' className='mx-auto w-full h-auto' />
         </div>
         <div className='grid grid-cols-1 md:grid-cols-4 gap-4 mt-8 px-8 justify-items-center'>
          <div>

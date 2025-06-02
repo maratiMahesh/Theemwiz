@@ -4,12 +4,12 @@ const About = () => {
   return (
     <div className='flex flex-col items-center justify-center px-8 bg-orange-50 py-8'>
       <div>
-        <img src="../src/Images/logo1.png" alt="About Us" className="w-full h-64 object-contain" /> 
+        <img src="../public/Images/logo1.png" alt="About Us" className="w-full h-64 object-contain" /> 
         <hr className="my-2 border-orange-400 " />
       </div>
       <div className='  w-full mt-4 my-4 flex flex-col items-center space-x-8 space-y-4 md:px-16 text-center md:flex-row md:justify-space-around md:text-left'>
         <div className='h-full w-full md:w-1/2 '>
-          <img src="../src/Images/pic1.png" alt="About Us" className="w-full h-full object-contain" />
+          <img src="../public/Images/pic1.png" alt="About Us" className="w-full h-full object-contain" />
         </div>
         <div className='wfull md:w-1/2 space-y-4 text-left'>
           <p className='text-lg font-semibold text-orange-500'>About Us</p>
