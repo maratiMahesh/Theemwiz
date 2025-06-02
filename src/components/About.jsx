@@ -57,7 +57,7 @@ const About = () => {
     <hr className="my-8 border-orange-400  w-full" />
      <div className='w-full flex justify-center items-center flex-col space-y-4 md:flex-row md:space-x-8 md:space-y-0 p-4'>
       <div className='w-full md:w-1/2 md:p-4 md:space-y-4'>
-        <img src="../src/Images/Bitmap.png" alt="About Us" className="w-full h-64 object-contain" />
+        <img src="../public/Images/Bitmap.png" alt="About Us" className="w-full h-64 object-contain" />
       </div>
       <div className='w-full md:w-1/2 space-y-4 text-left py-6'>
                 <p className='text-lg font-semibold text-orange-500 uppercase'>Video Reel</p>

@@ -36,7 +36,7 @@ const Portfolio = () => {
                     <p className='bg-white text-black rounded-lg opacity-70 px-2 py-1'>Branding</p>
                     <h3 className='text-white font-bold uppercase text-2xl'>Key board</h3>
                 </div>
-                <img src="../src/Images/Bitmap2.png" alt="Portfolio Item" className=' w-full h-60 md:h-80 object-cover rounded-lg shadow-lg' />
+                <img src="../public/Images/Bitmap2.png" alt="Portfolio Item" className=' w-full h-60 md:h-80 object-cover rounded-lg shadow-lg' />
                 </div>
                 <div className='relative md:col-span-3 '>
                     <div className='absolute bottom-8 left-4 bg-opacity-80'>
@@ -58,18 +58,18 @@ const Portfolio = () => {
                </div>
                <div className='m-8  bg-orange-50 grid grid-cols-1 md:grid-cols-3 p-4 space-x-3 rounded-lg'>
                 <div className='relative text-left p-4 space-y-2'>
-                    <img src="../src/Images/icon.png" alt="Get Started" className=' absolute -top-10 z-20 w-12 h-12 md:w-15 md:h-15 object-contain rounded-lg ' />
+                    <img src="../public/Images/icon.png" alt="Get Started" className=' absolute -top-10 z-20 w-12 h-12 md:w-15 md:h-15 object-contain rounded-lg ' />
                     <p className='text-2xl font-semibold text-orange-500'>Get Started</p>
                     <h3 className='text-gray-800 font-bold text-3xl mt-2'>We Help Companies 
                         Move Faster</h3>
                     <button className='bg-orange-600 font-weight-extrabold text-white px-2 sm:px-6 py-2 rounded mt-4'>Contact Us</button>    
                 </div>
                 <div className='flex justify-center items-center'>
-                    <img src="../src/Images/block.png" alt="Get Started" className='w-25 h-25 object-cover rounded-lg ' />
+                    <img src="../public/Images/block.png" alt="Get Started" className='w-25 h-25 object-cover rounded-lg ' />
                 </div>
                 <div className='md:relative flex justify-center items-center'>
-                    <img src="../src/Images/path.png" alt="Get Started" className=' hidden md:absolute w-15 h-15  md:w-full  md:h-full md:object-contain rounded-lg ' />
-                    <img src="../src/Images/Bitmap5.png" alt="Get Started" className=' md:absolute -top-10 z-20 w-25 h-25  md:w-full  md:h-full md:object-contain   object-cover rounded-lg ' />
+                    <img src="../public/Images/path.png" alt="Get Started" className=' hidden md:absolute w-15 h-15  md:w-full  md:h-full md:object-contain rounded-lg ' />
+                    <img src="../public/Images/Bitmap5.png" alt="Get Started" className=' md:absolute -top-10 z-20 w-25 h-25  md:w-full  md:h-full md:object-contain   object-cover rounded-lg ' />
                 </div>
                </div>
                <div className='px-4 mt-8'>
