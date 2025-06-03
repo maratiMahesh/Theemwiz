@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 
 const Carosel = () => {
   const images = [
-    { name: "David", type: "Design", image: "../public/Images/Bitmap6.png" },
-    { name: "Key board", type: "Branding", image: "../public/Images/Bitmap7.png" },
-    { name: "Work media", type: "Illustration", image: "../public/Images/Bitmap8.png" },
-    { name: "Ddone", type: "Motion", image: "../public/Images/Bitmap9.png" }
+    { name: "David", type: "Design", image: "/Images/Bitmap6.png" },
+    { name: "Key board", type: "Branding", image: "/Images/Bitmap7.png" },
+    { name: "Work media", type: "Illustration", image: "/Images/Bitmap8.png" },
+    { name: "Ddone", type: "Motion", image: "/Images/Bitmap9.png" }
   ];
 
   const [activeIndex, setActiveIndex] = useState(0);
